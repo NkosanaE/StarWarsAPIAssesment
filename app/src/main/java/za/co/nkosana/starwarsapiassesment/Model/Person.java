@@ -1,7 +1,4 @@
-/*
-This is a model class annotated with @Entity where all the variables are column names for the table, table name defined with @Entity
-Created by Maxim G. on December 12, 2018
-*/
+
 
 package za.co.nkosana.starwarsapiassesment.Model;
 

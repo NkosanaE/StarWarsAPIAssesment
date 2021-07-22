@@ -1,7 +1,4 @@
-/*
-This adapter for Recycler View, used in MainActivity and HistoryActivity
-Created by Maxim G. on December 12, 2018
-*/
+
 
 package za.co.nkosana.starwarsapiassesment.Model;
 

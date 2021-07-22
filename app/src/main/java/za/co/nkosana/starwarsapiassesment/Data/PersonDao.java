@@ -1,7 +1,3 @@
-/*
-This interface is an intermediary between the user and the database. All the operation to be performed on a table are defined here.
-Created by Maxim G. on December 12, 2018
-*/
 
 package za.co.nkosana.starwarsapiassesment.Data;
 

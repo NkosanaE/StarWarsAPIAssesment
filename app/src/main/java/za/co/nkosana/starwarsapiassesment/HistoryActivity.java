@@ -1,7 +1,3 @@
-/*
-This activity displays detailed information retrieved from a local DB in RecyclerView
-Created by Maxim G. on December 12, 2018
-*/
 
 package za.co.nkosana.starwarsapiassesment;
 

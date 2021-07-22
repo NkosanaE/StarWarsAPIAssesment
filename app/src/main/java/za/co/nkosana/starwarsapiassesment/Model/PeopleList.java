@@ -1,7 +1,3 @@
-/*
-This class is a data model for RecyclerView
-Created by Maxim G. on December 12, 2018
-*/
 
 package za.co.nkosana.starwarsapiassesment.Model;
 

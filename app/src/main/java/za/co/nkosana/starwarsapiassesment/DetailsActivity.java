@@ -1,8 +1,3 @@
-/*
-This activity displays detailed information about a hero, data retrieved from the main activity that connects to API
-Here we also save data to a local DB
-Created by Maxim G. on December 12, 2018
-*/
 
 package za.co.nkosana.starwarsapiassesment;
 
