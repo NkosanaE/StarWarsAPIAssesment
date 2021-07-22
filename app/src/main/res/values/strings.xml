@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StarWarsAPIAssesment</string>
+    <string name="title_activity_details">Details Activity</string>
+    <string name="title_activity_history">History Activity</string>
+    <string name="local_history">Recent Searches</string>
+    <string name="clear">Clear</string>
+    <string name="enter_name">Enter a Star Wars hero name</string>
+    <string name="search">Search</string>
+    <string name="history">History</string>
+</resources>
